@@ -9,6 +9,9 @@
 /target/
 /lib/
 /build/
+.settings
+.classpath
+.project
 
 # Compiled class file
 *.class
